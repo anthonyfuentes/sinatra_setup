@@ -1,8 +1,13 @@
 
 ## Basic Sinatra App Setup
 
-Clone me to start with the basic structure for a web app powered by
-[Sinatra](http://www.sinatrarb.com/).
+To start with the basic structure for a web app powered by [Sinatra](http://www.sinatrarb.com/):
+- Clone me
+- `bundle install`
+
+Visit the landing page for some inspiration and start coding!
+- `ruby main.rb`
+- Visit http://localhost:4567/
 
 ###Bonus study material related to HTTP:
 
