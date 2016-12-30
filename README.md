@@ -1,15 +1,15 @@
 
-## Basic Sinatra App Setup
+# Basic Sinatra App Setup
 
-To start with the basic structure for a web app powered by [Sinatra](http://www.sinatrarb.com/):
-- Fork then clone this repo
-- `bundle install`
+## To start with the basic structure for a web app powered by [Sinatra](http://www.sinatrarb.com/):
+1. Fork this repo
+2. Clone the fork to your machine
+3. `$ bundle install`
+4. Visit the landing page for some inspiration and start coding!
+  - `$ ruby main.rb`
+  - Visit http://localhost:4567/
 
-Visit the landing page for some inspiration and start coding!
-- `ruby main.rb`
-- Visit http://localhost:4567/
-
-###Bonus study material related to HTTP:
+## Bonus study material related to HTTP:
 
 - [Representational State Transfer
 (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm), Roy Fielding
