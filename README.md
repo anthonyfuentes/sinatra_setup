@@ -2,7 +2,7 @@
 ## Basic Sinatra App Setup
 
 To start with the basic structure for a web app powered by [Sinatra](http://www.sinatrarb.com/):
-- Clone this repo
+- Fork then clone this repo
 - `bundle install`
 
 Visit the landing page for some inspiration and start coding!
